@@ -52,7 +52,7 @@ Field research involves many activities:
 
 Below we'll consider some of these steps, based on our experience with field research for the Census of Places that Matter. As you read, you're likely to come up with your own ideas about how to make the most of "going to the scene," so be sure to note them down.
 
-### **Site Visits**
+## Site Visits
 
 Think of your visit as detective work: you're at the site to observe. Use the site visit to confirm or reconsider your ideas about who is interested in this place, and why they think it matters.
 
@@ -67,16 +67,16 @@ Important steps to take before, during and after a site visit include:
 
 ### What to Look For During Site Visits
 
-**The following suggestions for guiding your observations and questions about a place are based on our work with the Census of Places that Matter.
+*The following suggestions for guiding your observations and questions about a place are based on our work with the Census of Places that Matter.*
 
-1. Focus on ***what happens*** at this place and try to find out why its users value it:
+1. Focus on **what happens** at this place and try to find out why its users value it:
   - Is it related to musical, food, or other cultural traditions?
   - Is it related to an important event, or historical figure or group?
   - Is this where a particular activity originated?
   - If so, does it foster the activity's continuation?
   - Does it play a role in the development of a community or an area?
   - If none of the above, what has happened or is happening here, and why does it matter to the users or to you?
-2. Be sure to notice or inquire into ***human relationships.*** The value of many places can be found in the social interactions and networks they host. Your observations might deal with questions such as:
+2. Be sure to notice or inquire into **human relationships.** The value of many places can be found in the social interactions and networks they host. Your observations might deal with questions such as:
   - What social, political, religious, occupational, recreational (or other) groups use the place?
   - Are the uses sequential or concurrent?
   - What do the people who use it have in common? What differences do they have?
@@ -85,36 +85,36 @@ Important steps to take before, during and after a site visit include:
   - Are the people who live near the place aware of it; do they value it?
   - Are there tensions, competition, or conflicts connected to the site, and differing perspectives about it?
   - You may not be able to answer all these questions from observations alone. Follow them up in interviews and conversations.
-3. Take time to examine the ***appearance*** of the place. Its physical aspects are part of its history (and will be of particular relevance if you're contemplating any kind of landmark designation). Things to note include:
+3. Take time to examine the **appearance** of the place. Its physical aspects are part of its history (and will be of particular relevance if you're contemplating any kind of landmark designation). Things to note include:
   - The type of structure, e.g., is it a building? What kind? What was it built for?
   - The distinctive physical features of your place—if it's a building, note interior and exterior—especially when you believe these features are connected to the historical events, memories, longstanding use, or other factors that make the place important.
   - The materials used in the interior and exterior.
   - If you recognize the architectural style, note that as well, but because places that matter are often structures of modest architectural distinction, you may not be able to neatly slot your site into a single architectural category using traditional standards.
   - Its current use; uses of this place may have changed over the years.
-4. Understanding ***how a place relates to its surroundings*** provides another clue to the ways people may value it:
+4. Understanding **how a place relates to its surroundings** provides another clue to the ways people may value it:
   - Is your place distinct from or well integrated into the neighborhood? Is it visited by locals *and* outsiders?
   - Does the spatial relationship of your place to its surroundings influence its use or function? For example, a small park standing in the midst of a densely built landscape may be especially meaningful to its neighbors because it's the only park around. - If your place hosts gatherings of some kind, who attends and where are they from?
   - Examining both current and historical maps can help you better understand the relationship of a place to its surroundings, as can observation and interviewing.
-5. Stay alert to opportunities to ***get behind the scenes*** of a place:
+5. Stay alert to opportunities to **get behind the scenes** of a place:
 - Informal or impromptu tours offered during a site visit provide a  chance to see things that wouldn't be otherwise visible.
 - Touring the site with a variety of guides may reveal varied insights.
 - Spontaneous conversations with people who happen to be at the site  when you're visiting, such as neighbors, customers, people "passing  through," or other types of visitors, can result in your collecting  useful—and unexpected—information and perspectives.
-6. ** ***Taking photographs*** during site visits will help you to more accurately recall the place later on, and see features that may have initially escaped your notice. Think about capturing:
+6. ** **Taking photographs** during site visits will help you to more accurately recall the place later on, and see features that may have initially escaped your notice. Think about capturing:
 - Details of unique architectural features.
 - Evidence of how the place is used or was used in the past.
 - Events happening at the site.
 - Portraits of your interviewees.
 - You will especially value these photographs later on, when making public presentations: photos can bring your place to life in a way that words alone cannot. And since the appearance of a place changes over time, your photographs can contribute to the evolving visual record of the place.
 
-### Interviews
+## Interviews
 
 A big part of field research is conducting interviews; a big part of successful interviewing is finding the right people to talk to. Think broadly when considering whom to interview; you can always narrow your options down later.
 
-**Who to Interview**
+### Who to Interview
 
 How many interviews to conduct will be a judgment call, based on available resources and time, and your evaluation of how valuable the interviews are for collecting information, as well as for securing community investment in your larger effort. You can always start with a few interviews, and add more as you need to; your initial contacts will lead you to others.
 
-Some questions to consider in ***identifying good interview subjects*** include:
+Some questions to consider in **identifying good interview subjects** include:
 
 - Who really likes or dislikes the place?
 - Who are the "official" and "unofficial" users?
@@ -132,7 +132,7 @@ To get multiple perspectives, try for a mix of people of different occupations, 
 - Writing inquiries to newspapers, organizational newsletters, blogs, or online groups/mailing lists ("listservs")
 - Investigating other places connected to your place - Attending events related to the place, such as public forums, community celebrations, or heritage tours
 
-**How to Conduct a Rewarding Interview**
+### How to conduct a rewarding interview
 
 1. Before the interview, **develop questions** based on what you think
 the person can tell you about the place:
@@ -144,7 +144,7 @@ the person can tell you about the place:
      - Tell me about some of your favorite stories about this place—either your own, or ones you've heard from others.
      - What is your most vivid/happy memory of the place? What are your sad memories?
      - Describe how the neighborhood has changed.
-  - This [questionnaire]() has more sample questions to get you started.
+  - This [questionnaire](/placematters/questionnaire) has more sample questions to get you started.
 2. During the interview, practice **active listening**. Interviewing is an exercise in good listening. Take care not to let your passion for the subject distract you from being an interested listener who elicits what the interviewee knows. This is your best contribution to a successful interview.
   - Use your questions as a guide, but stay flexible. You can revise your questions as the interview progresses if the conversation takes an unexpected but interesting turn. If your questions elicit a story or take the conversation in a direction that doesn't seem relevant, be cautious about cutting it off right away. You may be surprised at the connections that develop. You can gently direct the conversation back to your questions when you need to.
   - While some interviewees will need prompting in order to speak, don't worry if silences develop. Sometimes a person just needs time to remember, and letting pauses hang for a bit ensures that you don't accidentally cut off their best comments!
@@ -153,7 +153,7 @@ the person can tell you about the place:
   - Be sure to ask your interviewee for research leads, such as other people to interview and books or articles to read. And remember to ask about private collections of photographs or other documents—these informal collections, big or small, can provide some of the most useful information.
 3. After the interview, **label** your discs, tapes, and notes with the date of the interview, the correctly spelled name of the interviewee, and your name.
 
-**Evaluating What You've Learned**
+### Evaluating What You've Learned
 
 You're bound to encounter conflicting stories that are difficult to make sense of: whose account is right? But seeming disagreements can be informative: they often reveal divisions based on race, ethnicity, class, gender, age, and other factors. Also keep in mind that the act of remembering is itself a creative process. People's memories can vary over time for all kinds of interesting reasons. Memories can also evolve to conform to accounts that people have read or heard others tell.
 
@@ -170,11 +170,11 @@ Here are some suggestions for how to work with divergent stories about a place:
 
 ### Resources
 
-- [Making Sense of Oral History, by Linda Shopes]()
-- [Step-by-Step Guide to Oral History, by Judith Moyer]()
-- [A Place-Based Questionnaire, by Jennifer Scott]()
-- [City Lore Interviewing Guide]()
-- [Sample Release Agreement]()
+- [Making Sense of Oral History, by Linda Shopes](http://historymatters.gmu.edu/mse/oral/)
+- [Step-by-Step Guide to Oral History, by Judith Moyer](http://dohistory.org/on_your_own/toolkit/oralHistory.html)
+- [A Place-Based Questionnaire, by Jennifer Scott](/place-matters/questionnaire)
+- [City Lore Interviewing Guide](/place-matters/interviewing-guide)
+- [Sample Release Agreement](https://docs.google.com/document/d/1h0VyLSfmqSE10LTaVEgyuu_WDY4FGDq6U6OtE7VB3h8/edit?usp=sharing)
 
 ## Develop Themes
 

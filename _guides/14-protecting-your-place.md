@@ -3,11 +3,11 @@ title: "Protecting your place"
 permalink: /protecting-your-place/
 ---
 
-Efforts to protect a place are usually galvanized by a threat or an unexpected opportunity. Typically the tools are few, and the stakes are high. Nevertheless, place advocates have forged some useful strategies, which we discuss below, matching them to the three goals articulated above in [Defining Your Project](/defining-your-project):
+Efforts to protect a place are usually galvanized by a threat or an unexpected opportunity. Typically the tools are few, and the stakes are high. Nevertheless, place advocates have forged some useful strategies, which we discuss below, matching them to the three goals articulated above in [Defining Your Project](/placematters/defining-your-project/):
 
-- Preserving the structure
-- Retaining longstanding use
-- Interpreting the story
+- [Preserving the structure](/placematters/preserving-structure/)
+- [Retaining longstanding use](/placematters/retaining-use/)
+- [Interpreting the story](/placematters/interpreting-story/)
 
 These goals are by no means mutually exclusive, but their pursuit can require different strategies.
 

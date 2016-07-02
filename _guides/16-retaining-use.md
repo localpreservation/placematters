@@ -3,7 +3,6 @@ title: "Retaining longstanding use"
 permalink: /retaining-use/
 ---
 
-
 Many places are cherished because they offer a home for ongoing community or cultural traditions. They are gathering points for communities that may be shaped by proximity, interests, occupations, passions, politics, shared heritage, and sexual orientation. Places provide the physical forms for communities to shape themselves around, and communities come to define places.
 
 If you are committed to preserving a type of *longstanding use*, and by extension the community engaged in that use, consider whether the **place** is critical to the **use** and to maintaining the cultural or community traditions you care about. If your answer is no, and your place is threatened, explore the possibility of moving the use. If your answer is yes, then consider how to protect the place and the use at the same time.
@@ -41,10 +40,10 @@ Reach out to local institutions and groups. There may be new ways for your place
 
 ## Resources
 
-For more information about pursuing recognition from the State and National Register, see [www.nps.gov/history/nr/listing.htm](). Also, consult with your State Historic Preservation Organization (SHPO).
+Find more information about pursuing recognition from the [State and National Register](https://www.nps.gov/nr/national_register_fundamentals.htm).  Also, consult with your State Historic Preservation Organization (SHPO).
 
-A well-written bulletin from the National Park Service explains whether your place can be considered a "traditional cultural property." Download []"Guidelines for Evaluating and Documenting Traditional Cultural Properties"](http://www.cr.nps.gov/nr/publications/bulletins/nrb38).
+A well-written bulletin from the National Park Service explains whether your place can be considered a "traditional cultural property." Download ["Guidelines for Evaluating and Documenting Traditional Cultural Properties"](http://www.cr.nps.gov/nr/publications/bulletins/nrb38).
 
-[Case Study: Bohemian Hall](/case-study-bohemian-hall)
+[Case Study: Bohemian Hall](/placematters/case-study-bohemian-hal/l)
 
-[Neighborhood Preservation Center database]()
+[Neighborhood Preservation Center database](http://www.neighborhoodpreservationcenter.org/)

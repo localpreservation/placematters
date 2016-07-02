@@ -19,7 +19,7 @@ Place Matters collaborated with The Point Community Development Corporation in t
 
 ## Your Guide to the Lower East Side
 
-Place Matters collaborated with the Lower East Side Tenement Museum and Lower East Side Preservation Coalition to develop location markers—signs—that would highlight special places in the Lower East Side from the perspectives of community residents. [Download the pdf here]().
+Place Matters collaborated with the Lower East Side Tenement Museum and Lower East Side Preservation Coalition to develop location markers—signs—that would highlight special places in the Lower East Side from the perspectives of community residents. [Download the pdf here](http://www.placematters.net/files/pdfs/marking.pdf).
 
 **Call the Neighborhood Preservation Center** to get references for practitioners of educational projects: (212) 228-2781
 

@@ -1,7 +1,7 @@
 ---
 title: "Case Study: South Bronx"
 layout: single
-permalink: /case-study-south-bronx
+permalink: /case-study-south-bronx/
 ---
 
 Interpreting the Story: Mambo to Hip Hop in the South Bronx

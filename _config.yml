@@ -7,12 +7,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "placeMatters Toolkit"
+title                    : "Place Matters Toolkit"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : https://localpreservation.github.io/placematters # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+name                     : "Local Preservation School"
+description              : "A resource for preserving historic places created by Place Matters and adapted by the Local Preservation School."
+url                      : https://localpreservation.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : /placematters # the subpath of your site, e.g. "/blog"
 gh_repo                  : https://github.com/localpreservation/placematters
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -147,6 +147,12 @@ kramdown:
   enable_coderay: false
 
 
+# Collections
+collections:
+  guides:
+    output: true
+    permalink: /:path/
+
 # Defaults
 defaults:
   # _posts
@@ -167,7 +173,18 @@ defaults:
     values:
       layout: single
       author_profile: false
-
+  # _guides
+  - scope:
+      path: ""
+      type: guides
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "guides"
 
 # Outputting
 permalink: /:categories/:title/

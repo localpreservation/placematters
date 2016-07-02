@@ -1,7 +1,7 @@
 ---
 title: "Case Study: Bohemian Hall"
 layout: single
-permalink: /case-study-bohemian-hall
+permalink: /case-study-bohemian-hall/
 ---
 
 The Significance of Long-Standing Use

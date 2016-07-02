@@ -1,7 +1,7 @@
 ---
 title: "Interviewing Guide"
 layout: single
-permalink: /interviewing-guide
+permalink: /interviewing-guide/
 ---
 
 {% include toc icon="columns" title="Interviewing Guide" %}

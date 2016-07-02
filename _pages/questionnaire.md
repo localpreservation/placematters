@@ -1,7 +1,7 @@
 ---
 title: "Place-Based Questionnaire"
 layout: single
-permalink: /questionnaire
+permalink: /questionnaire/
 ---
 
 *Use these questions as desired for interviews about places that matter.*

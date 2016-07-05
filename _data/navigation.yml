@@ -41,7 +41,7 @@ guides:
   - title: "Presenting"
     url: /presenting-your-place/
     children:
-      - title: "Write a place profiles"
+      - title: "Write a place profile"
         url: /write-place-profile/
       - title: "Make a public presentation"
         url: /make-public-presentation/

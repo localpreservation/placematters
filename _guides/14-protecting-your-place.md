@@ -1,6 +1,10 @@
 ---
 title: "Protecting your place"
 permalink: /protecting-your-place/
+header:
+  overlay_image: 7001608703_9025ee9932_k-square.jpg
+  overlay_filter: .5
+  caption: "Casitas, Mount Hope, New York, 2012 March 20. Courtesy [Matt Green/Flickr](https://www.flickr.com/photos/imjustwalkin/7001608703/) ([CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/))"
 ---
 
 Efforts to protect a place are usually galvanized by a threat or an unexpected opportunity. Typically the tools are few, and the stakes are high. Nevertheless, place advocates have forged some useful strategies, which we discuss below, matching them to the three goals articulated above in [Defining Your Project](/placematters/defining-your-project/):

@@ -9,29 +9,29 @@ header:
   cta_url: "/about/"
 excerpt: "The Place Matters Toolkit is a guidebook to help you identify, promote, and protect places that you care about."
 features:
-  - image_path: https://localpreservation.github.io/images/12881v.jpg
-    alt: "placeholder image 1"
+  - image_path: 14111342042_2b3409a644_h-square.jpg
+    alt: "Main Concourse, Grand Central Terminal, New York City"
     title: "Defining your project"
     excerpt: "This section will help you identify the causes for that attachment and define for yourself and others why this place matters."
     url: "/defining-your-project/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: https://localpreservation.github.io/images/18659u.jpg
-    alt: "placeholder image 2"
+  - image_path: 8815868256_51121cdb33_o-square.jpg
+    alt: "Reading Room, New York Public Library"
     title: "Explaining your place"
     excerpt: "Making a compelling argument for why a place matters will attract supporters and encourage creative thinking about strategies to protect it. This section of the Toolkit aims to help you make your case."
     url: "/explaining-your-place/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: https://localpreservation.github.io/images/11929u.jpg
-    alt: "placeholder image 1"
+  - image_path: 7756371806_4bbd9ae313_k-square.jpg
+    alt: "Myrtle Avenue and Broadway, Bedford-Stuyvesant, New York"
     title: "Presenting your place"
     excerpt: "Once you collect your stories, and identify and develop your themes, you will want to present them to the public to promote and advocate for your place."
     url: "/presenting-your-place/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: https://localpreservation.github.io/images/12881v.jpg
-    alt: "placeholder image 2"
+  - image_path: 7001608703_9025ee9932_k-square.jpg
+    alt: "Casitas, Mount Hope, New York"
     title: "Protecting your place"
     excerpt: "Efforts to protect a place are usually galvanized by a threat or an unexpected opportunity. Typically the tools are few, and the stakes are high. Nevertheless, place advocates have forged some useful strategies."
     url: "/protecting-your-place/"

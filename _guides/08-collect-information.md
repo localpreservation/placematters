@@ -1,6 +1,6 @@
 ---
-title: "Collecting information"
-permalink: /collecting-information/
+title: "Collect information"
+permalink: /collect-information/
 ---
 
 *Know why your place is attention-worthy—and be able to show it—by doing research.*

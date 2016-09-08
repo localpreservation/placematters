@@ -1,0 +1,59 @@
+# main links links
+main:
+  - title: "Defining your project"
+    url: https://localpreservation.github.io/placematters/defining-your-project/
+
+  - title: "Explaining your place"
+    url: https://localpreservation.github.io/placematters/explaining-your-place/
+
+  - title: "Presenting your place"
+    url: https://localpreservation.github.io/placematters/presenting-your-place/
+
+  - title: "Protecting your place"
+    url: https://localpreservation.github.io/placematters/protecting-your-place/
+
+# guides links
+guides:
+  - title: "About"
+    url: /about/
+  - title: "Defining"
+    url: /defining-your-project/
+    children:
+      - title: "Does your place matter?"
+        url: /does-your-place-matter/
+      - title: "Identify values"
+        url: /identify-values/
+      - title: "Find people who care"
+        url: /find-people-who-care/
+      - title: "Identify threats and opportunities"
+        url: /identify-threats-opportunities/
+      - title: "Formulate goals"
+        url: /formulate-goals/
+
+  - title: "Explaining"
+    url: /explaining-your-place/
+    children:
+      - title: "Collect information"
+        url: /collect-information/
+      - title: "Develop themes"
+        url: /develop-themes/
+
+  - title: "Presenting"
+    url: /presenting-your-place/
+    children:
+      - title: "Write a place profile"
+        url: /write-place-profile/
+      - title: "Make a public presentation"
+        url: /make-public-presentation/
+      - title: "Secure public recognition"
+        url: /secure-public-recognition/
+
+  - title: "Protecting"
+    url: /protecting-your-place/
+    children:
+      - title: "Preserving the structure"
+        url: /preserving-structure/
+      - title: "Retaining longstanding use"
+        url: /retaining-use/
+      - title: "Interpreting your story"
+        url: /interpreting-story/

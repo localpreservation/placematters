@@ -6,19 +6,19 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en"
 title                    : "Place Matters Toolkit"
 title_separator          : "-"
 name                     : "Local Preservation School"
 description              : "A resource for preserving historic places created by Place Matters and adapted by the Local Preservation School."
 url                      : https://localpreservation.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : /placematters # the subpath of your site, e.g. "/blog"
-gh_repo                  : https://github.com/localpreservation/placematters
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : localpreservation/placematters # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : grand-central-terminal.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -28,6 +28,24 @@ comments:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
+staticman:
+  allowedFields          : ['name', 'email', 'url', 'message']
+  branch                 : # "master", "gh-pages"
+  commitMessage          : "New comment."
+  filename               : comment-{@timestamp}
+  format                 : "yml"
+  moderation             : true
+  path                   : "_data/comments/{options.slug}"
+  requiredFields         : ['name', 'email', 'message']
+  transforms:
+    email                : "md5"
+  generatedFields:
+    date:
+      type               : "date"
+      options:
+        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+atom_feed:
+  path                   : # blank (default) uses feed.xml
 
 # SEO Related
 google_site_verification :
@@ -52,21 +70,17 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : google-universal # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : UA-69200926-2
-
-# Google AdSense
-google_ad_client         :
-google_ad_slot           :
 
 
 # Site Author
 author:
-  name             : "Local Preservation School"
+  name             : "Place Matters"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "."
+  location         : "New York, New York"
   email            :
   uri              :
   bitbucket        :
@@ -100,6 +114,7 @@ include:
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
+  - vendor
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
@@ -185,6 +200,13 @@ defaults:
       comments: false
       sidebar:
         nav: "guides"
+
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
 
 # Outputting
 permalink: /:categories/:title/

@@ -2,6 +2,10 @@
 title: "About"
 layout: single
 permalink: /about/
+header:
+  overlay_image: 27661222071_d149288f9e_k-square.jpg
+  overlay_filter: "0.5"
+  caption: "FDNY Squad Co.18 Firehouse, W. 10th Street, Greenwich Village, New York City,  2015 December 15. Courtesy [Spencer Means/Flickr](https://www.flickr.com/photos/hunky_punk/27661222071/) ([CC BY-SA 2.0](https://creativecommons.org/licenses/by-nc/2.0/))"
 ---
 
 If asked, each of us could probably point to public places in our city that connect us to the past, sustain thriving communities, contribute diversity and distinctiveness to our surroundings, and add to our well being.

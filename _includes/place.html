@@ -1,0 +1,14 @@
+<dl>
+{% for place in site.data.places %}
+  {% if place.name == include.name %}
+    <h3>
+      <a href="{{ place.url }}">
+        {{ place.name }}
+      </a>
+    </h3>
+    <p>
+      {{ place.description }}
+    </p>
+  {% endif %}
+{% endfor %}
+</dl>

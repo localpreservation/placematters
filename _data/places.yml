@@ -1,0 +1,59 @@
+# For each place include:
+#
+# - name:
+#   address:
+#   neighborhood:
+#   description:
+#   url:
+#   designation:
+#     -
+#   example_value:
+# TODO: Add coordinates so I can use this data with the Mapbox static API http://katydecorah.com/code/static-mapbox-for-jekyll/
+
+- name: (Former) Asch Building
+  address: Washington & Greene Streets
+  neighborhood: Greenwich Village, Manhattan
+  description:
+    - In 1911, the Asch Building was home to the Triangle Shirtwaist Factory and site of the worst factory fire in New York City history. When fire swept through the building that year, 146 young female garment workers died—many of them leaping to their deaths when locked doors and missing fire escapes blocked safe escape. Public outrage swept the city, and while the factory owners received no greater punishment than fines, the event prompted the establishment of the Bureau of Fire Investigation with powers to improve factory safety, and helped spur the continuing organization of the city’s workers, particularly within the garment industry. It is now part of New York University and called the Brown Building.
+  url: http://www.placematters.net/node/1009
+  designation:
+    - Nominated to the Census of Places that Matter by Bruce Kayton
+    - National Historic Landmark, 1991
+    - New York City Landmark, 2003
+  example_value: History/Memory
+
+- name: (Former) Teatro Puerto Rico
+  address: 490 E. 138th Street
+  neighborhood: Mott Haven, The Bronx
+  description: In the 1940s, Puerto Ricans began settling in the southern areas of the Bronx, in a sense, extending the borders of El Barrio-—the thriving community across the river in East Harlem—where more than half the city's Puerto Rican population lived. Teatro Puerto Rico was once a boxing arena that attracted Irish and Italian Bronxites. By 1948 it catered to growing numbers of Puerto Rican neighbors with Spanish-language variety shows that featured la música jíbara (country music), comedians, Mexican movies, and popular music stars such as Bobby Capó, La Lupe, Tito Rodríguez, and Tito Puente. The 2700-seat theater closed in the 1970s and is now a church.
+  url: http://www.placematters.net/node/1540
+  designation:
+   - Nominated to the [Census of Places that Matter](http://www.placematters.net/node/1540) by Juan B. Castro
+  example_value: History/Memory
+
+- name: Hua Mei Bird Garden
+  address: Sara Delano Roosevelt Park at Broome Street
+  neighborhood: Lower East Side, Manhattan
+  description: The Hua Mei Bird Club, an informal convocation of Chinese men, gathers here mornings, nearly daily, to share their passion for the exotic fighting thrushes known as Hua Mei. The birds are said to have come into fashion through the tastes of a particular Chinese emperor. Each bird has its own distinct song which changes—or is refined, some owners argue—when exposed to the songs of other birds. The pleasant, rectangular garden was purposely crafted for the Club's use in an inspired burst of community activism in the 1990s.
+  url: http://www.placematters.net/node/1241
+  designation:
+   - Nominated to the [Census of Places that Matter](http://www.placematters.net/node/1241) by Andy Schwartz
+  example_value: Community Enhancement
+
+- name: Calder Terrazo Sidewalk
+  address: 1014-1018 Madison Avenue
+  neighborhood: Upper East Side, Manhattan
+  description: Alexander Calder's terrazzo sidewalk is a unique work by an artist famous for his mobile sculptures. Installed in 1970, the sidewalk is 75 by 15 feet, and is made up of black-and-white parallel and diagonal lines and crescents. According to the nominators, the owners of three adjacent art galleries commissioned Calder to design their shared sidewalk. It is the artist's only sidewalk and his only work in terrazzo. It is installed in a part of town that was the center of avant-garde art before it moved downtown, when there was still a concentration of galleries that represented Calder.
+  url: http://www.placematters.net/node/986
+  designation:
+   - Nominated twice to the [Census of Places that Matter](http://www.placematters.net/node/986) by Matthew  Postal and Michael Gotkin
+  example_value: Community Enhancement
+
+- name: Nathan's Famous
+  address: 1302 Surf Avenue
+  neighborhood: Coney Island, Brooklyn
+  description: Nathan Handwerker started selling hotdogs from a stand at the corner of Surf and Stillwell in 1916, and in the 1940s the Handwerker family erected the distinctive and beloved establishment that still sells Nathan's hotdogs today. It has been called one of the best-known restaurants in New York City, and writer Calvin Trillin has described the Nathan’s hot dog as “the most quintessential representative of New York.” Its prime location near both the beach and the subway made Nathan's an essential part of every Coney Island visit. "Nathan's hot dogs only taste good you when you eat them at the original Nathan's," claimed one advocate.
+  url: http://www.placematters.net/node/1373
+  designation:
+    - Nominated to the [Census of Places that Matter](http://www.placematters.net/node/1373) by Jessica Radow
+  example_value: Longstanding Use

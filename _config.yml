@@ -5,16 +5,20 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+remote_theme             : "mmistakes/minimal-mistakes"
+
 # Site Settings
-locale                   : "en"
+locale                   : "en-US"
 title                    : "Place Matters Toolkit"
 title_separator          : "-"
-name                     : "Local Preservation School"
-description              : "A resource for preserving historic places created by Place Matters and adapted by the Local Preservation School."
+name                     : &name "Local Preservation School"
+description              : &description "A resource for preserving historic places created by Place Matters and adapted by the Local Preservation School."
 url                      : https://localpreservation.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : /placematters # the subpath of your site, e.g. "/blog"
-repository               : localpreservation/placematters # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : grand-central-terminal.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+baseurl                  : "/placematters" # the subpath of your site, e.g. "/blog"
+repository               : "localpreservation/placematters" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : "/assets/images/grand-central-terminal.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -44,8 +48,14 @@ staticman:
       type               : "date"
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+reCaptcha:
+  siteKey                :
+  secret                 :
+
 atom_feed:
   path                   : # blank (default) uses feed.xml
+
+search                   : true # true, false (default)
 
 # SEO Related
 google_site_verification :
@@ -55,18 +65,19 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : localpast
+  username               : &twitter localpast
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/grand-central-terminal.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
+  type                   : Organization # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://twitter.com/localpast"
 
 # Analytics
 analytics:
@@ -194,10 +205,11 @@ defaults:
       type: guides
     values:
       layout: single
-      read_time: false
+      read_time: true
       author_profile: false
-      share: false
       comments: false
+      share: true
+      related: false
       sidebar:
         nav: "guides"
 
@@ -216,12 +228,13 @@ timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-remote-theme
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -230,7 +243,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
+  - jekyll-remote-theme
 
 # Archives
 #  Type

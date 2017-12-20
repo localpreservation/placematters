@@ -2,7 +2,7 @@
 title: "Defining your project"
 permalink: /defining-your-project/
 header:
-  overlay_image: 14111342042_2b3409a644_h-square.jpg
+  overlay_image: /assets/images/14111342042_2b3409a644_h-square.jpg
   overlay_filter: .5
   caption: "Main Concourse, Grand Central Terminal, New York City., 2014 April 3. Courtesy [Maciek Lulko/Flickr](https://www.flickr.com/photos/lulek/14111342042) ([CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/))"
 ---

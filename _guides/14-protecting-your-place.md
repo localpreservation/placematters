@@ -2,7 +2,7 @@
 title: "Protecting your place"
 permalink: /protecting-your-place/
 header:
-  overlay_image: 7001608703_9025ee9932_k-square.jpg
+  overlay_image: /assets/images/7001608703_9025ee9932_k-square.jpg
   overlay_filter: .5
   caption: "Casitas, Mount Hope, New York, 2012 March 20. Courtesy [Matt Green/Flickr](https://www.flickr.com/photos/imjustwalkin/7001608703/) ([CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/))"
 ---

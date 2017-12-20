@@ -2,7 +2,7 @@
 title: "Presenting your place"
 permalink: /presenting-your-place/
 header:
-  overlay_image: 7756371806_4bbd9ae313_k-square.jpg
+  overlay_image: /assets/images/7756371806_4bbd9ae313_k-square.jpg
   overlay_filter: .5
   caption: "Myrtle Avenue and Broadway, Bedford-Stuyvesant, New York, 2012 June 2. Courtesy [Stefan Georgi/Flickr](https://www.flickr.com/photos/onesevenone/7756371806/) ([CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/))"
 ---

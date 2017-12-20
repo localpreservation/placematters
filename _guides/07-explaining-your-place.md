@@ -2,7 +2,7 @@
 title: "Explaining your place"
 permalink: /explaining-your-place/
 header:
-  overlay_image: 8815868256_51121cdb33_o-square.jpg
+  overlay_image: /assets/images/8815868256_51121cdb33_o-square.jpg
   overlay_filter: .5
   caption: "Reading Room, New York Public Library, 2013 March 21. Courtesy [Steve Harris/Flickr](https://www.flickr.com/photos/steveharris/8815868256/) ([CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/))"
 ---

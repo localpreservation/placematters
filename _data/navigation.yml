@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Defining your project"
+  - title: "Define"
     url: https://localpreservation.github.io/placematters/defining-your-project/
 
-  - title: "Explaining your place"
+  - title: "Explain"
     url: https://localpreservation.github.io/placematters/explaining-your-place/
 
-  - title: "Presenting your place"
+  - title: "Present"
     url: https://localpreservation.github.io/placematters/presenting-your-place/
 
-  - title: "Protecting your place"
+  - title: "Protect"
     url: https://localpreservation.github.io/placematters/protecting-your-place/
 
 # guides links
 guides:
   - title: "About"
     url: /about/
-  - title: "Defining"
+  - title: "Define"
     url: /defining-your-project/
     children:
       - title: "Does your place matter?"
@@ -30,7 +30,7 @@ guides:
       - title: "Formulate goals"
         url: /formulate-goals/
 
-  - title: "Explaining"
+  - title: "Explain"
     url: /explaining-your-place/
     children:
       - title: "Collect information"
@@ -38,7 +38,7 @@ guides:
       - title: "Develop themes"
         url: /develop-themes/
 
-  - title: "Presenting"
+  - title: "Present"
     url: /presenting-your-place/
     children:
       - title: "Write a place profile"
@@ -48,7 +48,7 @@ guides:
       - title: "Secure public recognition"
         url: /secure-public-recognition/
 
-  - title: "Protecting"
+  - title: "Protect"
     url: /protecting-your-place/
     children:
       - title: "Preserving the structure"
